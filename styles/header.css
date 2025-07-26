@@ -1,12 +1,12 @@
 .header-nav {
     background-color: #e7e5dbd7;
     padding: 5px 0;
-    position: relative;
-    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    position : relative;
+    box-shadow: 10px 10px 90px rgba(0, 0, 0, 90);
 }
 
-.header-nav ul {
-    list-style: none;
+.header-nav ul{
+    /* list-style: ; */
     display: flex;
     align-items: center;
     justify-content: center;
